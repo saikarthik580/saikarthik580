@@ -1,16 +1,126 @@
-## Hi there 👋
+<!--
+=====================================================================
+  GitHub Profile README  —  saikarthik580 (Karthik Nimmagadda)
+  NEW-PROFILE VERSION: project-forward, no activity/stats widgets.
+
+  PUBLISH: create a public repo named EXACTLY  saikarthik580
+           add this file as README.md, commit. Renders at github.com/saikarthik580
+
+  This is the ONLY file you need.
+  Optional (NOT a file): add a one-line "About" description to each pinned repo
+  (repo > About > gear) so the project cards aren't blank.
+=====================================================================
+-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Karthik+Nimmagadda;AI+%26+Machine+Learning+Engineer;Data+Scientist+%7C+GenAI;LLMs+%E2%80%A2+RAG+%E2%80%A2+MLOps" alt="Karthik Nimmagadda" />
+
+### AI / ML Engineer · Data Scientist
+
+I build end-to-end ML and GenAI systems — from data and modeling through to deployment.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikarthik-nimmagadda/)
+
+</div>
+
+> 💼 **Open to AI / Machine Learning Engineer & Data Scientist roles** — Dallas–Fort Worth (on-site / hybrid) & remote. Actively interviewing.
+
+---
+
+## 👋 About
+
+I focus on machine learning and applied AI, and I like building projects that go past the notebook — careful data work, honest model comparison, and getting things to actually run. Recently I've been working across **classical ML** (regression, fraud and credit-risk modeling) and **GenAI** (LLM agents and RAG).
+
+- 🎓 M.S. in **Computer Science**, The University of Texas at Arlington (2025)
+- 🔭 Building ML + GenAI projects — see the pinned repos below
+- 🌱 Currently going deeper on **LLM agents, RAG, and MLOps**
+- 📍 **Dallas–Fort Worth** · open to on-site, hybrid & remote
+- 📫 Best way to reach me: **[LinkedIn](https://www.linkedin.com/in/saikarthik-nimmagadda/)**
+
+---
+
+## 🛠️ Tech Stack
+
+<!-- Trim to what you can speak to confidently -->
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**ML & Modeling**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1572B6?style=for-the-badge)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**GenAI & LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**MLOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Data & Notebooks**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
 
 <!--
-**saikarthik580/saikarthik580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+These cards pull each repo's name, description & language LIVE from GitHub.
+So add a one-line "About" to each repo (I've written full READMEs for these four).
+Swap a repo= name below once you make financial-data-agent public.
 -->
+
+<div align="center">
+
+<a href="https://github.com/saikarthik580/House_Price_Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikarthik580&repo=House_Price_Prediction&theme=tokyonight&hide_border=true" alt="House_Price_Prediction" />
+</a>
+<a href="https://github.com/saikarthik580/Credit_Fraud_Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikarthik580&repo=Credit_Fraud_Detection&theme=tokyonight&hide_border=true" alt="Credit_Fraud_Detection" />
+</a>
+
+<a href="https://github.com/saikarthik580/loan-portfolio-analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikarthik580&repo=loan-portfolio-analytics&theme=tokyonight&hide_border=true" alt="loan-portfolio-analytics" />
+</a>
+<a href="https://github.com/saikarthik580/stock-crypto-market-intelligence">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikarthik580&repo=stock-crypto-market-intelligence&theme=tokyonight&hide_border=true" alt="stock-crypto-market-intelligence" />
+</a>
+
+</div>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+I'm always happy to talk ML, LLMs, RAG, or an interesting data problem.
+
+<!-- Want your email shown too? Add it back here. Note it becomes public to scrapers. -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikarthik-nimmagadda/)
+
+</div>
+
+<!--
+  OPTIONAL — the only stat I kept (it shows your language mix, not activity counts).
+  Delete these two lines entirely if you'd rather show no widgets at all.
+-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikarthik580&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
