@@ -78,34 +78,6 @@ I focus on machine learning and applied AI, and I like building projects that go
 
 ---
 
-## 🚀 Featured Projects
-
-<!--
-These cards pull each repo's name, description & language LIVE from GitHub.
-So add a one-line "About" to each repo (I've written full READMEs for these four).
-Swap a repo= name below once you make financial-data-agent public.
--->
-
-<div align="center">
-
-<a href="https://github.com/saikarthik580/House_Price_Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikarthik580&repo=House_Price_Prediction&theme=tokyonight&hide_border=true" alt="House_Price_Prediction" />
-</a>
-<a href="https://github.com/saikarthik580/Credit_Fraud_Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikarthik580&repo=Credit_Fraud_Detection&theme=tokyonight&hide_border=true" alt="Credit_Fraud_Detection" />
-</a>
-
-<a href="https://github.com/saikarthik580/loan-portfolio-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikarthik580&repo=loan-portfolio-analytics&theme=tokyonight&hide_border=true" alt="loan-portfolio-analytics" />
-</a>
-<a href="https://github.com/saikarthik580/stock-crypto-market-intelligence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saikarthik580&repo=stock-crypto-market-intelligence&theme=tokyonight&hide_border=true" alt="stock-crypto-market-intelligence" />
-</a>
-
-</div>
-
----
-
 ## 📫 Connect
 
 <div align="center">
@@ -116,5 +88,3 @@ I'm always happy to talk ML, LLMs, RAG, or an interesting data problem.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikarthik-nimmagadda/)
 
 </div>
-
-
