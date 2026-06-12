@@ -117,10 +117,4 @@ I'm always happy to talk ML, LLMs, RAG, or an interesting data problem.
 
 </div>
 
-<!--
-  OPTIONAL — the only stat I kept (it shows your language mix, not activity counts).
-  Delete these two lines entirely if you'd rather show no widgets at all.
--->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikarthik580&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+
